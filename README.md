@@ -13,9 +13,8 @@
 - I am dedicated to developing projects that allow me to advance and enhance my trayectory as a programmer. 
 - I firmly believe that I can always improve, whether it's a product, software, or myself. This leads me to challenge myself every day and find the best solution when a problem arises
 - If you believe that your project or company can improve, contact me, and together we will find the method!
-- Personal website [https://vm-developer.com.ar](https://vm-developer.com.ar)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
-- [56/100 EFSET English certificate](https://www.efset.org/cert/ynkXJ5)
+- I’m currently open for an Intern or a new job opportunity,
+- [56/100 EFSET English certificate]()
 
 <br>
 
