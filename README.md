@@ -14,7 +14,7 @@
 - I firmly believe that I can always improve, whether it's a product, software, or myself. This leads me to challenge myself every day and find the best solution when a problem arises
 - If you believe that your project or company can improve, contact me, and together we will find the method!
 - I’m currently open for an Intern or a new job opportunity,
-- [56/100 EFSET English certificate]()
+- [67/100 EFSET English certificate]()
 
 <br>
 
